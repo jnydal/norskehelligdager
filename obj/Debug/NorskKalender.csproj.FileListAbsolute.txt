@@ -1,0 +1,5 @@
+D:\workspace\CapgeminiUtils\NorskKalender\bin\Debug\NorskKalender.dll
+D:\workspace\CapgeminiUtils\NorskKalender\bin\Debug\NorskKalender.pdb
+D:\workspace\CapgeminiUtils\NorskKalender\obj\Debug\NorskKalender.dll
+D:\workspace\CapgeminiUtils\NorskKalender\obj\Debug\NorskKalender.pdb
+D:\workspace\CapgeminiUtils\NorskKalender\obj\Debug\NorskKalender.csprojResolveAssemblyReference.cache
